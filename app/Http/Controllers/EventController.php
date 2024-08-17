@@ -29,7 +29,7 @@ class EventController extends Controller
      */
     public function store(StoreProductRequest $request)
     {
-        //
+        bruhhhhhhhhhh
     }
 
     /**
